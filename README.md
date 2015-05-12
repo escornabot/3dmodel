@@ -7,4 +7,3 @@ Escornabot 3D Model
 
 [ESC01]: https://raw.githubusercontent.com/xoan/Escornabot/master/Escornabot.png
 [PRO01]: http://bricolabs.cc/wiki/index.php?title=Escornabot
-
