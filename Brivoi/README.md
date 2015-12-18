@@ -35,9 +35,9 @@ image         | file
 ![Addon-KeypadButtons.stl](img/Addon-KeypadButtons.png) | [Addon-KeypadButtons.stl](STL/Addon-KeypadButtons.stl) [2][3]
 ![Addon-KeypadButtons-Graphics.stl](img/Addon-KeypadButtons-Graphics.png) | [Addon-KeypadButtons-Graphics.stl](STL/Addon-KeypadButtons-Graphics.stl) [2][3]
 
-[1] Keypad made with stripboard
-[2] 5-button keypad case
-[3] Choose one
+  - [1] Keypad made with stripboard
+  - [2] 5-button keypad case
+  - [3] Choose one
 
 
 ## Source files
