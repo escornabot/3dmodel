@@ -20,7 +20,7 @@ image         | file
 
 image         | file
 ------------- | -------------
-![Addon-EscornaCPUBracket.stl](img/Addon-EscornaCPUBracket.stl) | [Addon-EscornaCPUBracket.stl](STL/Addon-EscornaCPUBracket.stl)
+![Addon-EscornaCPUBracket.stl](img/Addon-EscornaCPUBracket.png) | [Addon-EscornaCPUBracket.stl](STL/Addon-EscornaCPUBracket.stl)
 ![Addon-KeypadBracket-PCB.stl](img/Addon-KeypadBracket-PCB.png) | [Addon-KeypadBracket-PCB.stl](STL/Addon-KeypadBracket-PCB.stl)
 
 
