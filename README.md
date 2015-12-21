@@ -5,11 +5,10 @@ Escornabot 3D Model
 Further info at http://escornabot.com/web/content/how
 
 
-## Current versions
+## Current version
 
-  * [Brivoi Audacious edition](Brivoi/README-audacious.md) (May 2015)
-  * [Brivoi Compactus edition](Brivoi/README-compactus.md) (May 2015)
-
+  * [Brivoi edition](Brivoi/README.md) (May 2015)
+  * 
 
 ## Old versions
 
