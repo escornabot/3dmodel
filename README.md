@@ -1,9 +1,17 @@
+
 Escornabot 3D Model
 ===================
 
-![Escornabot 3D Model][ESC01]
+Further info at http://escornabot.com/web/content/how
 
-[Escornabot Project][PRO01]
 
-[ESC01]: https://raw.githubusercontent.com/escornabot/3dmodel/master/Escornabot.png
-[PRO01]: http://bricolabs.cc/wiki/index.php?title=Escornabot
+## Current version
+
+  * [Brivoi edition](Brivoi/README.md) (May 2015)
+  
+
+## Old versions
+
+  * [Placidus edition](Placidus/README.md) (November 2014)
+
+
